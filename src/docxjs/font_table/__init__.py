@@ -1,0 +1,2 @@
+"""Font table module."""
+

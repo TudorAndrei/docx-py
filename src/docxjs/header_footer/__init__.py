@@ -1,0 +1,2 @@
+"""Header and footer module."""
+
